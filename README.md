@@ -2,13 +2,19 @@
 SpaCY Sentence Parser as a Service
 
 ## Build
-> ./build.sh
+```
+./build.sh
+```
 
 ## Deploy
-> ./run.sh
+```
+./run.sh
+```
 
 ## Test
-> ./runcurl.sh
+```
+./runcurl.sh
+```
 
 ### References
 SpaCY: https://spacy.io/usage/#section-quickstart
